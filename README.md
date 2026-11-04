@@ -4,7 +4,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-161b22?style=for-the-badge&logo=linkedin&logoColor=e3b341)](https://www.linkedin.com/in/arthur-foga%C3%A7a-martins-78a177286/)
+[![LinkedIn](https://img.shields.io/badge/in%20%2F%20arthur--foga%C3%A7a--martins-161b22?style=for-the-badge&labelColor=161b22&color=161b22)](https://www.linkedin.com/in/arthur-foga%C3%A7a-martins-78a177286/)
 [![Email](https://img.shields.io/badge/arthurmtsmts@gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=e3b341)](mailto:arthurmtsmts@gmail.com)
 
 </div>
