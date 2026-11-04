@@ -1,55 +1,44 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=full-stack+developer+jr.;php+%7C+python+%7C+javascript;aprendendo+react+%26+node.js)](https://git.io/typing-svg)
+<img src="assets/hero.svg" width="100%" alt="arthur=# SELECT * FROM devs WHERE github = 'ArthurMts11'; nome: Arthur Fogaça Martins, cargo: full-stack developer, agora: implementador de ERP na Lógica Informática, construindo: SaaS multi-tenant para revendas de carros, formação: Sistemas para Internet no IFFar Panambi, onde: Panambi, RS, Brasil">
 
-### arthur fogaça martins
+<br>
 
-```
-estudante de sistemas para internet · iffar panambi, rs
-construo sistemas web reais · buscando primeira oportunidade
-```
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-fogaça-martins-78a177286/)
-[![Gmail](https://img.shields.io/badge/gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arthurmtsmts@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-161b22?style=for-the-badge&logo=linkedin&logoColor=e3b341)](https://www.linkedin.com/in/arthur-foga%C3%A7a-martins-78a177286/)
+[![Email](https://img.shields.io/badge/arthurmtsmts@gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=e3b341)](mailto:arthurmtsmts@gmail.com)
 
 </div>
 
----
+<br>
 
-```js
-const arthur = {
-  role:     "full-stack developer jr.",
-  stack:    ["HTML5", "CSS3", "JavaScript", "PHP", "Python", "MySQL"],
-  learning: ["React.js", "Node.js", "Laravel", "Django"],
-  location: "Panambi, RS — Brasil",
-  open_to:  "primeira oportunidade profissional"
-}
-```
+<img src="assets/projetos.svg" width="100%" alt="Projetos: erp-revenda, sentinelai, infragest, logifrota e lista-de-ramais">
 
----
+<p align="center">
+  <sub>
+    código aberto:
+    <a href="https://github.com/ArthurMts11?tab=repositories&q=infragest">infragest</a>,
+    <a href="https://github.com/ArthurMts11?tab=repositories&q=logifrota">logifrota</a> e
+    <a href="https://github.com/ArthurMts11?tab=repositories&q=ramais">lista-de-ramais</a>.
+    erp-revenda e sentinelai são produtos comerciais com código privado; demo sob pedido.
+  </sub>
+</p>
 
-**projetos**
+<br>
 
-`logifrota` — sistema de controle de frota com registro de motoristas e veículos, painel de gestão e integração com APIs externas · `PHP · MySQL · JS` · [ver repo →](LINK_DO_REPO)
+<img src="assets/experiencia.svg" width="100%" alt="Experiência: Lógica Informática, SAUR Equipamentos, Marcasite e freelancer desde 2021">
 
-`lista de ramais` — ferramenta de busca de contatos internos com pesquisa em tempo real por ramal, setor e e-mail · `PHP · MySQL · JS` · [ver repo →](LINK_DO_REPO)
-
----
-
-**tecnologias**
-
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![PHP](https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
+<br><br>
 
 <div align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=arthurmts11&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmts11&layout=compact&theme=github_dark&hide_border=true" />
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,ts,react,nextjs,postgres,mysql,redis,docker,git&theme=dark&perline=11" alt="PHP, Laravel, Node.js, TypeScript, React, Next.js, PostgreSQL, MySQL, Redis, Docker, Git">
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurMts11/ArthurMts11/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurMts11/ArthurMts11/output/snake-light.svg">
+  <img alt="cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/ArthurMts11/ArthurMts11/output/snake-dark.svg" width="100%">
+</picture>
+
 </div>
